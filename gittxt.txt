@@ -1,0 +1,11 @@
+go to file path cd
+git init
+git status
+git remote add origin https://github.com/MilinduJayasinghe/test2.git
+git status
+git add .
+git status
+git commit -m "first commit"
+git status
+git push origin master
+
